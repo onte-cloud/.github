@@ -1,0 +1,15 @@
+{
+	"name": "GitHub Community",
+	"image": "mcr.microsoft.com/devcontainers/base:jammy",
+	"features": {
+		"ghcr.io/devcontainers/features/github-cli:1": {}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"davidanson.vscode-markdownlint",
+				"yzhang.markdown-all-in-one"
+			]
+		}
+	}
+}

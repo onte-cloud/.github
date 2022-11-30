@@ -1,0 +1,2 @@
+# Ignore all dot files (otherwise use the --force flag).
+**/.*
